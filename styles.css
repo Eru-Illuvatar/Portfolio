@@ -115,7 +115,7 @@
   text-decoration: underline;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 333px) {
   #navbar ul {
     flex-direction: column;
     align-items: center;
